@@ -115,3 +115,230 @@
 16:39:44.791 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
 16:39:44.796 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
 16:39:45.298 [main] INFO web.SpringStarter - Started SpringStarter in 2.043 seconds (JVM running for 4.442)
+08:47:32.272 [main] WARN ironyard.SpringStarter - Will this show up?
+08:47:32.742 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6796 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+08:47:32.743 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+08:47:32.744 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+08:47:34.321 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+08:47:34.325 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+08:47:34.937 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.547 seconds (JVM running for 5.63)
+08:59:40.858 [main] WARN ironyard.SpringStarter - Will this show up?
+08:59:41.306 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 1612 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+08:59:41.307 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+08:59:41.308 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+08:59:43.121 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+08:59:43.124 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+08:59:43.679 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.721 seconds (JVM running for 5.745)
+09:13:56.027 [main] WARN ironyard.SpringStarter - Will this show up?
+09:13:56.467 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 1752 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:13:56.468 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:13:56.469 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:13:58.032 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+09:13:58.035 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:13:58.633 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.511 seconds (JVM running for 5.469)
+09:15:16.250 [main] WARN ironyard.SpringStarter - Will this show up?
+09:15:16.674 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7108 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:15:16.675 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:15:16.676 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:15:18.168 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+09:15:18.171 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:15:18.780 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.434 seconds (JVM running for 5.448)
+09:23:16.829 [main] WARN ironyard.SpringStarter - Will this show up?
+09:23:17.255 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 5784 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:23:17.256 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:23:17.257 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:23:18.788 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+09:23:18.792 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:23:19.401 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.476 seconds (JVM running for 5.555)
+09:38:52.596 [main] WARN ironyard.SpringStarter - Will this show up?
+09:38:53.042 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 1684 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:38:53.044 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:38:53.045 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:38:54.560 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+09:38:54.563 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:38:55.090 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.4 seconds (JVM running for 5.34)
+10:03:53.274 [main] WARN ironyard.SpringStarter - Will this show up?
+10:03:53.757 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7580 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:03:53.757 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:03:53.757 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:03:55.427 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+10:03:55.427 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:03:56.051 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.668 seconds (JVM running for 5.664)
+10:18:39.964 [main] WARN ironyard.SpringStarter - Will this show up?
+10:18:40.424 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 5472 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:18:40.424 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:18:40.424 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:18:42.015 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+10:18:42.015 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:18:42.623 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.565 seconds (JVM running for 5.589)
+10:20:19.850 [main] WARN ironyard.SpringStarter - Will this show up?
+10:20:20.318 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 3364 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:20:20.318 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:20:20.318 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:20:21.846 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+10:20:21.849 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:20:22.447 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.472 seconds (JVM running for 5.584)
+10:23:42.530 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+10:23:42.546 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:25:16.820 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+10:25:16.820 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:25:25.190 [main] WARN ironyard.SpringStarter - Will this show up?
+10:25:25.627 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7808 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:25:25.627 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:25:25.627 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:25:27.379 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+10:25:27.395 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:25:27.991 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.707 seconds (JVM running for 5.812)
+10:27:08.995 [main] WARN ironyard.SpringStarter - Will this show up?
+10:27:09.478 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6320 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:27:09.478 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:27:09.478 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:27:10.976 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+10:27:10.976 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:27:11.584 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.449 seconds (JVM running for 5.589)
+10:29:10.388 [main] WARN ironyard.SpringStarter - Will this show up?
+10:29:10.825 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7840 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:29:10.825 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:29:10.825 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:29:12.432 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+10:29:12.432 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:29:13.056 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.574 seconds (JVM running for 5.552)
+10:30:40.899 [main] WARN ironyard.SpringStarter - Will this show up?
+10:30:41.351 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6568 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:30:41.351 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:30:41.351 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:30:42.927 [main] DEBUG t9.TrieLoadingService - file:/C:/javaproject/maven/my-app/target/classes/corncob_lowercase.txt
+10:30:42.927 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:30:43.578 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.554 seconds (JVM running for 5.553)
+13:35:45.455 [main] WARN ironyard.SpringStarter - Will this show up?
+13:35:45.798 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 2820 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:35:45.798 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:35:45.798 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:35:47.078 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:35:47.508 [main] INFO ironyard.SpringStarter - Started SpringStarter in 1.99 seconds (JVM running for 4.406)
+13:36:29.591 [main] WARN ironyard.SpringStarter - Will this show up?
+13:36:29.996 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 1736 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:36:29.996 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:36:29.996 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:36:31.244 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:36:31.743 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.059 seconds (JVM running for 4.502)
+13:39:33.818 [main] WARN ironyard.SpringStarter - Will this show up?
+13:39:34.192 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7252 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:39:34.192 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:39:34.192 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:39:35.487 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:39:35.971 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.075 seconds (JVM running for 4.474)
+13:54:27.888 [main] WARN ironyard.SpringStarter - Will this show up?
+13:54:28.263 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6992 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:54:28.263 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:54:28.263 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:54:29.556 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:54:30.025 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.074 seconds (JVM running for 4.513)
+14:01:38.848 [main] WARN ironyard.SpringStarter - Will this show up?
+14:01:39.275 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 1484 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:01:39.276 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:01:39.277 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:01:40.689 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:01:41.272 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.318 seconds (JVM running for 4.975)
+14:34:01.781 [main] WARN ironyard.SpringStarter - Will this show up?
+14:34:02.167 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 4380 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:34:02.168 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:34:02.170 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:34:25.709 [main] WARN ironyard.SpringStarter - Will this show up?
+14:34:26.071 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 3448 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:34:26.072 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:34:26.074 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:35:37.121 [main] WARN ironyard.SpringStarter - Will this show up?
+14:35:37.495 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7896 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:35:37.496 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:35:37.497 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:36:43.406 [main] WARN ironyard.SpringStarter - Will this show up?
+14:36:43.797 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8128 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:36:43.798 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:36:43.801 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:36:45.146 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:36:45.696 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.202 seconds (JVM running for 4.611)
+14:37:45.358 [main] WARN ironyard.SpringStarter - Will this show up?
+14:37:45.749 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6312 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:37:45.750 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:37:45.752 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:37:47.252 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:37:47.717 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.289 seconds (JVM running for 4.721)
+14:44:58.606 [main] WARN ironyard.SpringStarter - Will this show up?
+14:44:58.980 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6448 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:44:58.982 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:44:58.985 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:45:00.361 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:45:00.838 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.156 seconds (JVM running for 4.548)
+14:48:16.391 [main] WARN ironyard.SpringStarter - Will this show up?
+14:48:16.747 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8140 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:48:16.748 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:48:16.751 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:48:17.973 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:48:18.414 [main] INFO ironyard.SpringStarter - Started SpringStarter in 1.946 seconds (JVM running for 4.4)
+14:49:26.809 [main] WARN ironyard.SpringStarter - Will this show up?
+14:49:27.186 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7336 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:49:27.187 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:49:27.190 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:49:28.475 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:49:28.966 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.069 seconds (JVM running for 4.527)
+14:50:07.399 [main] WARN ironyard.SpringStarter - Will this show up?
+14:50:07.765 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 5916 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:50:07.765 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:50:07.765 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:50:09.111 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:50:09.615 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.115 seconds (JVM running for 4.601)
+14:51:51.934 [main] WARN ironyard.SpringStarter - Will this show up?
+14:51:52.302 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6500 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:51:52.303 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:51:52.305 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:51:53.638 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:51:54.132 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.117 seconds (JVM running for 4.605)
+14:53:15.996 [main] WARN ironyard.SpringStarter - Will this show up?
+14:53:16.364 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6408 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:53:16.365 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:53:16.367 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:53:17.705 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:53:18.187 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.101 seconds (JVM running for 4.718)
+15:02:19.359 [main] WARN ironyard.SpringStarter - Will this show up?
+15:02:19.738 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8008 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:02:19.739 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:02:19.742 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:02:21.060 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:02:21.597 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.156 seconds (JVM running for 4.752)
+15:03:00.135 [main] WARN ironyard.SpringStarter - Will this show up?
+15:03:00.559 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7572 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:03:00.561 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:03:00.564 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:03:01.868 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:03:02.304 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.084 seconds (JVM running for 4.565)
+15:05:18.360 [main] WARN ironyard.SpringStarter - Will this show up?
+15:05:18.743 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 2180 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:05:18.744 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:05:18.745 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:05:20.069 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:05:20.559 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.111 seconds (JVM running for 4.76)
+15:07:33.541 [main] WARN ironyard.SpringStarter - Will this show up?
+15:07:33.932 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7700 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:07:33.933 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:07:33.935 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:07:35.322 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:07:35.818 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.187 seconds (JVM running for 4.845)
+15:10:56.784 [main] WARN ironyard.SpringStarter - Will this show up?
+15:10:57.165 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6644 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:10:57.166 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:10:57.168 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:10:58.395 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:10:58.842 [main] INFO ironyard.SpringStarter - Started SpringStarter in 1.978 seconds (JVM running for 4.428)
+15:14:10.768 [main] WARN ironyard.SpringStarter - Will this show up?
+15:14:11.155 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6464 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:14:11.157 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:14:11.159 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:14:12.430 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:14:12.923 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.08 seconds (JVM running for 4.567)
+15:15:25.944 [main] WARN ironyard.SpringStarter - Will this show up?
+15:15:26.330 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 4716 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:15:26.332 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:15:26.334 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:15:27.657 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:15:28.230 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.208 seconds (JVM running for 4.67)

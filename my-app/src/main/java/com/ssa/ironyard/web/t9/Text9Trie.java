@@ -7,7 +7,7 @@ import java.util.List;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Text9Trie
+public class Text9Trie implements T9Trie
 {
     private TextTrieDict root; 
     

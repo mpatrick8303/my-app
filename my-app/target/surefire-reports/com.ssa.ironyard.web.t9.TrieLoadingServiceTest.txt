@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.ssa.ironyard.web.t9.TrieLoadingServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.016 sec <<< FAILURE! - in com.ssa.ironyard.web.t9.TrieLoadingServiceTest
+webapp(com.ssa.ironyard.web.t9.TrieLoadingServiceTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.ssa.ironyard.web.t9.WebFileFactory.getInstance(WebFileFactory.java:33)
+	at com.ssa.ironyard.web.t9.TrieLoadingService.<init>(TrieLoadingService.java:34)
+	at com.ssa.ironyard.web.t9.TrieLoadingServiceTest.webapp(TrieLoadingServiceTest.java:40)
+
+uhoh(com.ssa.ironyard.web.t9.TrieLoadingServiceTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.ssa.ironyard.web.t9.TrieLoadingService.addWord(TrieLoadingService.java:53)
+	at com.ssa.ironyard.web.t9.TrieLoadingService.<init>(TrieLoadingService.java:36)
+	at com.ssa.ironyard.web.t9.TrieLoadingServiceTest.uhoh(TrieLoadingServiceTest.java:33)
+
