@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.ssa.ironyard.web.t9.TrieLoadingServiceTest" time="0" tests="2" errors="2" skipped="0" failures="0">
+<testsuite name="com.ssa.ironyard.web.t9.TrieLoadingServiceTest" time="0.013" tests="2" errors="2" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_92\jre\bin"/>
@@ -69,14 +69,14 @@
 	at com.ssa.ironyard.web.t9.TrieLoadingServiceTest.webapp(TrieLoadingServiceTest.java:40)
 ]]></error>
   </testcase>
-  <testcase name="uhoh" classname="com.ssa.ironyard.web.t9.TrieLoadingServiceTest" time="0">
+  <testcase name="uhoh" classname="com.ssa.ironyard.web.t9.TrieLoadingServiceTest" time="0.013">
     <error type="java.lang.NullPointerException:"><![CDATA[java.lang.NullPointerException: null
 	at com.ssa.ironyard.web.t9.TrieLoadingService.addWord(TrieLoadingService.java:53)
 	at com.ssa.ironyard.web.t9.TrieLoadingService.<init>(TrieLoadingService.java:36)
 	at com.ssa.ironyard.web.t9.TrieLoadingServiceTest.uhoh(TrieLoadingServiceTest.java:33)
 ]]></error>
-    <system-out><![CDATA[16:56:07.986 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\src\main\resources, exists?true
-16:56:07.986 [main] DEBUG t9.TrieLoadingService - java.nio.file.AccessDeniedException: C:\javaproject\maven\my-app\src\main\resources
+    <system-out><![CDATA[15:57:12.406 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\src\main\resources, exists?true
+15:57:12.413 [main] DEBUG t9.TrieLoadingService - java.nio.file.AccessDeniedException: C:\javaproject\maven\my-app\src\main\resources
 ]]></system-out>
   </testcase>
 </testsuite>

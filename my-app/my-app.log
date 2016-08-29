@@ -342,3 +342,1595 @@
 15:15:26.334 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
 15:15:27.657 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
 15:15:28.230 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.208 seconds (JVM running for 4.67)
+09:34:30.586 [main] WARN ironyard.SpringStarter - Will this show up?
+09:34:31.026 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 5688 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:34:31.027 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:34:31.028 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:34:32.611 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:38:58.533 [main] WARN ironyard.SpringStarter - Will this show up?
+09:38:58.962 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 4156 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:38:58.963 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:38:58.966 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:39:00.514 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:51:37.952 [main] WARN ironyard.SpringStarter - Will this show up?
+09:51:38.426 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7500 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:51:38.427 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:51:38.430 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:51:40.005 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:54:29.970 [main] WARN ironyard.SpringStarter - Will this show up?
+09:54:30.418 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 2004 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:54:30.419 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:54:30.422 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:54:32.007 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:57:28.270 [main] WARN ironyard.SpringStarter - Will this show up?
+09:57:28.714 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 5080 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:57:28.715 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:57:28.719 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+09:57:30.251 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:57:30.840 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.475 seconds (JVM running for 5.429)
+10:08:01.087 [main] WARN ironyard.SpringStarter - Will this show up?
+10:08:01.543 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7936 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:08:01.545 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:08:01.548 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:08:03.129 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:08:03.731 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.543 seconds (JVM running for 5.687)
+10:18:33.411 [main] WARN ironyard.SpringStarter - Will this show up?
+10:18:33.853 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 5496 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:18:33.854 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:18:33.857 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:18:35.656 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:18:36.256 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.752 seconds (JVM running for 5.872)
+10:20:58.024 [main] WARN ironyard.SpringStarter - Will this show up?
+10:20:58.477 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7188 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:20:58.478 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:20:58.481 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:21:00.222 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:21:00.826 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.701 seconds (JVM running for 5.852)
+10:31:40.722 [main] WARN ironyard.SpringStarter - Will this show up?
+10:31:41.192 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7528 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:31:41.194 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:31:41.197 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:31:42.883 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:31:43.477 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.649 seconds (JVM running for 5.829)
+10:41:36.141 [main] WARN ironyard.SpringStarter - Will this show up?
+10:41:36.597 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7116 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:41:36.599 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:41:36.602 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:41:38.347 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:41:38.987 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.742 seconds (JVM running for 5.977)
+10:45:19.038 [main] WARN ironyard.SpringStarter - Will this show up?
+10:45:19.514 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8028 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+10:45:19.516 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+10:45:19.520 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+10:45:21.451 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+10:45:22.029 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.885 seconds (JVM running for 6.15)
+13:16:57.210 [main] WARN ironyard.SpringStarter - Will this show up?
+13:16:57.579 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 1224 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:16:57.580 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:16:57.583 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:16:58.859 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:16:59.305 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.0 seconds (JVM running for 4.473)
+13:20:06.348 [main] WARN ironyard.SpringStarter - Will this show up?
+13:20:06.756 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7836 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:20:06.758 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:20:06.761 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:20:08.073 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:20:08.558 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.125 seconds (JVM running for 4.59)
+13:22:01.905 [main] WARN ironyard.SpringStarter - Will this show up?
+13:22:02.275 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 1444 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:22:02.277 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:22:02.279 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:22:03.534 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:22:04.002 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.016 seconds (JVM running for 4.411)
+13:23:16.967 [main] WARN ironyard.SpringStarter - Will this show up?
+13:23:17.341 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6768 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:23:17.341 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:23:17.342 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:23:18.622 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:23:19.052 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.004 seconds (JVM running for 4.497)
+13:25:33.026 [main] WARN ironyard.SpringStarter - Will this show up?
+13:25:33.386 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 3176 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:25:33.387 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:25:33.389 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:25:34.604 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:25:35.114 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.014 seconds (JVM running for 4.436)
+13:26:09.651 [main] WARN ironyard.SpringStarter - Will this show up?
+13:26:10.045 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6252 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:26:10.046 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:26:10.049 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:26:11.343 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:26:11.805 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.068 seconds (JVM running for 4.571)
+13:26:49.818 [main] WARN ironyard.SpringStarter - Will this show up?
+13:26:50.212 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6292 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:26:50.214 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:26:50.217 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:26:51.486 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:26:51.986 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.082 seconds (JVM running for 4.534)
+13:28:04.977 [main] WARN ironyard.SpringStarter - Will this show up?
+13:28:05.333 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 864 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:28:05.333 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:28:05.334 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:28:06.575 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:28:07.016 [main] INFO ironyard.SpringStarter - Started SpringStarter in 1.957 seconds (JVM running for 4.36)
+13:48:01.082 [main] WARN ironyard.SpringStarter - Will this show up?
+13:48:01.467 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 4880 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:48:01.469 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:48:01.472 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:48:02.835 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:48:03.407 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.229 seconds (JVM running for 4.725)
+13:51:10.453 [main] WARN ironyard.SpringStarter - Will this show up?
+13:51:10.808 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 11084 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:51:10.810 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:51:10.814 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:51:12.105 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:51:12.551 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.027 seconds (JVM running for 4.39)
+13:53:17.690 [main] WARN ironyard.SpringStarter - Will this show up?
+13:53:18.038 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8700 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:53:18.039 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:53:18.041 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:53:19.326 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:53:19.794 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.026 seconds (JVM running for 4.387)
+13:57:11.068 [main] WARN ironyard.SpringStarter - Will this show up?
+13:57:11.453 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8180 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:57:11.454 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:57:11.457 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:57:12.816 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:57:13.285 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.133 seconds (JVM running for 4.641)
+13:57:17.823 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}
+13:57:17.825 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {
+  "animal" : "baboon",
+  "continents" : [ "Africa", "Arabia" ],
+  "detail" : "They are some of the largest non-hominoid members of the primate order",
+  "url" : "localhost:8080/zoo/animals/baboon"
+}
+13:58:23.638 [main] WARN ironyard.SpringStarter - Will this show up?
+13:58:24.010 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 4724 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:58:24.012 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:58:24.015 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:58:25.265 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:58:25.995 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.278 seconds (JVM running for 4.674)
+13:58:28.073 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}
+13:58:28.075 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {
+  "animal" : "baboon",
+  "continents" : [ "Africa", "Arabia" ],
+  "detail" : "They are some of the largest non-hominoid members of the primate order",
+  "url" : "localhost:8080/zoo/animals/baboon"
+}
+13:58:58.295 [main] WARN ironyard.SpringStarter - Will this show up?
+13:58:58.678 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8300 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:58:58.680 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:58:58.682 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+13:58:59.969 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:59:00.435 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.063 seconds (JVM running for 4.518)
+13:59:01.631 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}
+13:59:01.633 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {
+  "animal" : "baboon",
+  "continents" : [ "Africa", "Arabia" ],
+  "detail" : "They are some of the largest non-hominoid members of the primate order",
+  "url" : "localhost:8080/zoo/animals/baboon"
+}
+14:01:54.866 [main] WARN ironyard.SpringStarter - Will this show up?
+14:01:55.333 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8440 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:01:55.337 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:01:55.342 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:01:56.966 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:01:57.540 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.571 seconds (JVM running for 5.622)
+14:02:11.317 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}
+14:02:11.319 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {
+  "animal" : "baboon",
+  "continents" : [ "Africa", "Arabia" ],
+  "detail" : "They are some of the largest non-hominoid members of the primate order",
+  "url" : "localhost:8080/zoo/animals/baboon"
+}
+14:02:20.104 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}
+14:02:20.105 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "unicorn",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Surfing rainbows",
+  "url" : "localhost:8080/zoo/animals/unicorn"
+}
+14:08:02.165 [main] WARN ironyard.SpringStarter - Will this show up?
+14:08:02.623 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 9360 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:08:02.625 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:08:02.627 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:08:04.171 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:08:04.784 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.525 seconds (JVM running for 5.7)
+14:08:08.852 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}
+14:08:08.854 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {
+  "animal" : "unicorn",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Surfing rainbows",
+  "url" : "localhost:8080/zoo/animals/unicorn"
+}
+14:08:29.171 [http-nio-8080-exec-3] DEBUG zoo.ZooController - {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}
+14:08:29.172 [http-nio-8080-exec-3] DEBUG zoo.ZooController - {
+  "animal" : "unicorn",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Surfing rainbows",
+  "url" : "localhost:8080/zoo/animals/unicorn"
+}
+14:09:48.713 [main] WARN ironyard.SpringStarter - Will this show up?
+14:09:49.169 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 10192 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:09:49.171 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:09:49.173 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:09:50.844 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:09:51.485 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.664 seconds (JVM running for 5.734)
+14:10:09.501 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {"animal":"This animal is not in the zoo","continents":null,"detail":null,"url":null}
+14:10:09.504 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {
+  "animal" : "This animal is not in the zoo",
+  "continents" : null,
+  "detail" : null,
+  "url" : null
+}
+14:10:14.069 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}
+14:10:14.070 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "donkey",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "Has been used as a working animal for at least 5000 years",
+  "url" : "localhost:8080/zoo/animals/donkey"
+}
+14:15:29.598 [main] WARN ironyard.SpringStarter - Will this show up?
+14:15:30.126 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 4788 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:15:30.128 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:15:30.131 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:15:32.054 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:15:32.758 [main] INFO ironyard.SpringStarter - Started SpringStarter in 3.022 seconds (JVM running for 6.393)
+14:15:40.006 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}
+14:15:40.010 [http-nio-8080-exec-1] DEBUG zoo.ZooController - {
+  "animal" : "quail",
+  "continents" : [ "North America", "Europe", "Asia", "Africa", "South America", "Australia" ],
+  "detail" : "In 2007 40 million quail were produced in the U.S.",
+  "url" : "localhost:8080/zoo/animals/quail"
+}
+14:15:49.613 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}
+14:15:49.614 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "aardvark",
+  "continents" : [ "Africa" ],
+  "detail" : "It's somtimes colloquially called African ant bear",
+  "url" : "localhost:8080/zoo/animals/aardvark"
+}
+14:15:49.615 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}
+14:15:49.615 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "baboon",
+  "continents" : [ "Africa", "Arabia" ],
+  "detail" : "They are some of the largest non-hominoid members of the primate order",
+  "url" : "localhost:8080/zoo/animals/baboon"
+}
+14:15:49.616 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}
+14:15:49.616 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "chimpanzee",
+  "continents" : [ "Africa" ],
+  "detail" : "One of the largest-brained, and most intelligent of primates",
+  "url" : "localhost:8080/zoo/animals/chimpanzee"
+}
+14:15:49.617 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}
+14:15:49.617 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "donkey",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "Has been used as a working animal for at least 5000 years",
+  "url" : "localhost:8080/zoo/animals/donkey"
+}
+14:15:49.618 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}
+14:15:49.619 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "elephant",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Male elephants are the largest extant terrestrial anmimal",
+  "url" : "localhost:8080/zoo/animals/elephant"
+}
+14:15:49.620 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}
+14:15:49.620 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "fish",
+  "continents" : [ "Ocean" ],
+  "detail" : "They all breath underwater",
+  "url" : "localhost:8080/zoo/animals/fish"
+}
+14:15:49.621 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}
+14:15:49.622 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "gorilla",
+  "continents" : [ "Africa" ],
+  "detail" : "Their DNA is highly similar to that of humans",
+  "url" : "localhost:8080/zoo/animals/gorilla"
+}
+14:15:49.623 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}
+14:15:49.623 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "horse",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "They are able to sleep both standing and lying down",
+  "url" : "localhost:8080/zoo/animals/horse"
+}
+14:15:49.624 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}
+14:15:49.624 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "iguana",
+  "continents" : [ "North America", "South America" ],
+  "detail" : "THey have a tiny third eye on their head that senses light",
+  "url" : "localhost:8080/zoo/animals/iguana"
+}
+14:15:49.625 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}
+14:15:49.625 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "jackalope",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Not real",
+  "url" : "localhost:8080/zoo/animals/jackalope"
+}
+14:15:49.626 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}
+14:15:49.626 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "kangaroo",
+  "continents" : null,
+  "detail" : "Around 34.3 million kangaroos lived in Australia in 2011",
+  "url" : "localhost:8080/zoo/animals/kangaroo"
+}
+14:15:49.627 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}
+14:15:49.627 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "loris",
+  "continents" : [ "Asia" ],
+  "detail" : "They are nocturnal",
+  "url" : "localhost:8080/zoo/animals/loris"
+}
+14:15:49.628 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}
+14:15:49.628 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "manatee",
+  "continents" : [ "Ocean" ],
+  "detail" : "They can weigh as much as 1,300 lbs",
+  "url" : "localhost:8080/zoo/animals/manatee"
+}
+14:15:49.629 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}
+14:15:49.630 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "nightingale",
+  "continents" : null,
+  "detail" : "It's song is described as one of the most beautiful sounds in nature",
+  "url" : "localhost:8080/zoo/animals/nightingale"
+}
+14:15:49.631 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}
+14:15:49.631 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "orangutan",
+  "continents" : [ "Asia" ],
+  "detail" : "They spend most of their time in trees",
+  "url" : "localhost:8080/zoo/animals/orangutan"
+}
+14:15:49.632 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}
+14:15:49.632 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "piranha",
+  "continents" : [ "South America" ],
+  "detail" : "They have one of the strongest bites found in bony fish",
+  "url" : "localhost:8080/zoo/animals/piranha"
+}
+14:15:49.633 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}
+14:15:49.634 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "quail",
+  "continents" : [ "North America", "Europe", "Asia", "Africa", "South America", "Australia" ],
+  "detail" : "In 2007 40 million quail were produced in the U.S.",
+  "url" : "localhost:8080/zoo/animals/quail"
+}
+14:15:49.634 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}
+14:15:49.635 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "rhinoceros",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Their skin is 1.5-5cm thick",
+  "url" : "localhost:8080/zoo/animals/rhinoceros"
+}
+14:15:49.636 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}
+14:15:49.636 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "squirrel",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "The earliest known squirrels date from the Eocene",
+  "url" : "localhost:8080/zoo/animals/squirrel"
+}
+14:15:49.637 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}
+14:15:49.637 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "tree_frog",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "They live in trees",
+  "url" : "localhost:8080/zoo/animals/tree_frog"
+}
+14:15:49.638 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}
+14:15:49.638 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "unicorn",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Surfing rainbows",
+  "url" : "localhost:8080/zoo/animals/unicorn"
+}
+14:15:49.639 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}
+14:15:49.640 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "velociraptor",
+  "continents" : [ "Pangaea" ],
+  "detail" : "Thought to have feathers",
+  "url" : "localhost:8080/zoo/animals/velociraptor"
+}
+14:15:49.641 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}
+14:15:49.642 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "whale",
+  "continents" : [ "Ocean" ],
+  "detail" : "They range from 8.5 feet to 98 feet",
+  "url" : "localhost:8080/zoo/animals/whale"
+}
+14:15:49.643 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}
+14:15:49.643 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "xray_tetra",
+  "continents" : [ "South America" ],
+  "detail" : "Lives in large groups",
+  "url" : "localhost:8080/zoo/animals/xray_tetra"
+}
+14:15:49.644 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}
+14:15:49.644 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "yak",
+  "continents" : [ "Asia" ],
+  "detail" : "One of the largest bovids",
+  "url" : "localhost:8080/zoo/animals/yak"
+}
+14:15:49.645 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}
+14:15:49.646 [http-nio-8080-exec-2] DEBUG zoo.ZooController - {
+  "animal" : "zebu",
+  "continents" : [ "Asia" ],
+  "detail" : "In 1999 researches at Texas A&M Univeristy successfully cloned it",
+  "url" : "localhost:8080/zoo/animals/zebu"
+}
+14:16:03.308 [http-nio-8080-exec-4] DEBUG zoo.ZooController - {"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}
+14:16:03.309 [http-nio-8080-exec-4] DEBUG zoo.ZooController - {
+  "animal" : "aardvark",
+  "continents" : [ "Africa" ],
+  "detail" : "It's somtimes colloquially called African ant bear",
+  "url" : "localhost:8080/zoo/animals/aardvark"
+}
+14:16:05.649 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}
+14:16:05.649 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "aardvark",
+  "continents" : [ "Africa" ],
+  "detail" : "It's somtimes colloquially called African ant bear",
+  "url" : "localhost:8080/zoo/animals/aardvark"
+}
+14:16:05.650 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}
+14:16:05.651 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "baboon",
+  "continents" : [ "Africa", "Arabia" ],
+  "detail" : "They are some of the largest non-hominoid members of the primate order",
+  "url" : "localhost:8080/zoo/animals/baboon"
+}
+14:16:05.652 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}
+14:16:05.652 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "chimpanzee",
+  "continents" : [ "Africa" ],
+  "detail" : "One of the largest-brained, and most intelligent of primates",
+  "url" : "localhost:8080/zoo/animals/chimpanzee"
+}
+14:16:05.653 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}
+14:16:05.653 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "donkey",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "Has been used as a working animal for at least 5000 years",
+  "url" : "localhost:8080/zoo/animals/donkey"
+}
+14:16:05.654 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}
+14:16:05.654 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "elephant",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Male elephants are the largest extant terrestrial anmimal",
+  "url" : "localhost:8080/zoo/animals/elephant"
+}
+14:16:05.655 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}
+14:16:05.655 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "fish",
+  "continents" : [ "Ocean" ],
+  "detail" : "They all breath underwater",
+  "url" : "localhost:8080/zoo/animals/fish"
+}
+14:16:05.656 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}
+14:16:05.656 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "gorilla",
+  "continents" : [ "Africa" ],
+  "detail" : "Their DNA is highly similar to that of humans",
+  "url" : "localhost:8080/zoo/animals/gorilla"
+}
+14:16:05.657 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}
+14:16:05.657 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "horse",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "They are able to sleep both standing and lying down",
+  "url" : "localhost:8080/zoo/animals/horse"
+}
+14:16:05.658 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}
+14:16:05.658 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "iguana",
+  "continents" : [ "North America", "South America" ],
+  "detail" : "THey have a tiny third eye on their head that senses light",
+  "url" : "localhost:8080/zoo/animals/iguana"
+}
+14:16:05.659 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}
+14:16:05.659 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "jackalope",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Not real",
+  "url" : "localhost:8080/zoo/animals/jackalope"
+}
+14:16:05.660 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}
+14:16:05.660 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "kangaroo",
+  "continents" : null,
+  "detail" : "Around 34.3 million kangaroos lived in Australia in 2011",
+  "url" : "localhost:8080/zoo/animals/kangaroo"
+}
+14:16:05.661 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}
+14:16:05.661 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "loris",
+  "continents" : [ "Asia" ],
+  "detail" : "They are nocturnal",
+  "url" : "localhost:8080/zoo/animals/loris"
+}
+14:16:05.662 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}
+14:16:05.662 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "manatee",
+  "continents" : [ "Ocean" ],
+  "detail" : "They can weigh as much as 1,300 lbs",
+  "url" : "localhost:8080/zoo/animals/manatee"
+}
+14:16:05.663 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}
+14:16:05.663 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "nightingale",
+  "continents" : null,
+  "detail" : "It's song is described as one of the most beautiful sounds in nature",
+  "url" : "localhost:8080/zoo/animals/nightingale"
+}
+14:16:05.664 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}
+14:16:05.664 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "orangutan",
+  "continents" : [ "Asia" ],
+  "detail" : "They spend most of their time in trees",
+  "url" : "localhost:8080/zoo/animals/orangutan"
+}
+14:16:05.665 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}
+14:16:05.665 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "piranha",
+  "continents" : [ "South America" ],
+  "detail" : "They have one of the strongest bites found in bony fish",
+  "url" : "localhost:8080/zoo/animals/piranha"
+}
+14:16:05.666 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}
+14:16:05.667 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "quail",
+  "continents" : [ "North America", "Europe", "Asia", "Africa", "South America", "Australia" ],
+  "detail" : "In 2007 40 million quail were produced in the U.S.",
+  "url" : "localhost:8080/zoo/animals/quail"
+}
+14:16:05.667 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}
+14:16:05.667 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "rhinoceros",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Their skin is 1.5-5cm thick",
+  "url" : "localhost:8080/zoo/animals/rhinoceros"
+}
+14:16:05.668 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}
+14:16:05.668 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "squirrel",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "The earliest known squirrels date from the Eocene",
+  "url" : "localhost:8080/zoo/animals/squirrel"
+}
+14:16:05.669 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}
+14:16:05.669 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "tree_frog",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "They live in trees",
+  "url" : "localhost:8080/zoo/animals/tree_frog"
+}
+14:16:05.670 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}
+14:16:05.670 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "unicorn",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Surfing rainbows",
+  "url" : "localhost:8080/zoo/animals/unicorn"
+}
+14:16:05.671 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}
+14:16:05.671 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "velociraptor",
+  "continents" : [ "Pangaea" ],
+  "detail" : "Thought to have feathers",
+  "url" : "localhost:8080/zoo/animals/velociraptor"
+}
+14:16:05.672 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}
+14:16:05.672 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "whale",
+  "continents" : [ "Ocean" ],
+  "detail" : "They range from 8.5 feet to 98 feet",
+  "url" : "localhost:8080/zoo/animals/whale"
+}
+14:16:05.673 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}
+14:16:05.673 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "xray_tetra",
+  "continents" : [ "South America" ],
+  "detail" : "Lives in large groups",
+  "url" : "localhost:8080/zoo/animals/xray_tetra"
+}
+14:16:05.674 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}
+14:16:05.674 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "yak",
+  "continents" : [ "Asia" ],
+  "detail" : "One of the largest bovids",
+  "url" : "localhost:8080/zoo/animals/yak"
+}
+14:16:05.675 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}
+14:16:05.675 [http-nio-8080-exec-5] DEBUG zoo.ZooController - {
+  "animal" : "zebu",
+  "continents" : [ "Asia" ],
+  "detail" : "In 1999 researches at Texas A&M Univeristy successfully cloned it",
+  "url" : "localhost:8080/zoo/animals/zebu"
+}
+14:19:03.431 [main] WARN ironyard.SpringStarter - Will this show up?
+14:19:03.923 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 6192 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:19:03.925 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:19:03.928 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:19:05.542 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:19:06.123 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.583 seconds (JVM running for 5.828)
+14:19:13.784 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{
+  "animal" : "aardvark",
+  "continents" : [ "Africa" ],
+  "detail" : "It's somtimes colloquially called African ant bear",
+  "url" : "localhost:8080/zoo/animals/aardvark"
+}, {
+  "animal" : "baboon",
+  "continents" : [ "Africa", "Arabia" ],
+  "detail" : "They are some of the largest non-hominoid members of the primate order",
+  "url" : "localhost:8080/zoo/animals/baboon"
+}, {
+  "animal" : "chimpanzee",
+  "continents" : [ "Africa" ],
+  "detail" : "One of the largest-brained, and most intelligent of primates",
+  "url" : "localhost:8080/zoo/animals/chimpanzee"
+}, {
+  "animal" : "donkey",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "Has been used as a working animal for at least 5000 years",
+  "url" : "localhost:8080/zoo/animals/donkey"
+}, {
+  "animal" : "elephant",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Male elephants are the largest extant terrestrial anmimal",
+  "url" : "localhost:8080/zoo/animals/elephant"
+}, {
+  "animal" : "fish",
+  "continents" : [ "Ocean" ],
+  "detail" : "They all breath underwater",
+  "url" : "localhost:8080/zoo/animals/fish"
+}, {
+  "animal" : "gorilla",
+  "continents" : [ "Africa" ],
+  "detail" : "Their DNA is highly similar to that of humans",
+  "url" : "localhost:8080/zoo/animals/gorilla"
+}, {
+  "animal" : "horse",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "They are able to sleep both standing and lying down",
+  "url" : "localhost:8080/zoo/animals/horse"
+}, {
+  "animal" : "iguana",
+  "continents" : [ "North America", "South America" ],
+  "detail" : "THey have a tiny third eye on their head that senses light",
+  "url" : "localhost:8080/zoo/animals/iguana"
+}, {
+  "animal" : "jackalope",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Not real",
+  "url" : "localhost:8080/zoo/animals/jackalope"
+}, {
+  "animal" : "kangaroo",
+  "continents" : null,
+  "detail" : "Around 34.3 million kangaroos lived in Australia in 2011",
+  "url" : "localhost:8080/zoo/animals/kangaroo"
+}, {
+  "animal" : "loris",
+  "continents" : [ "Asia" ],
+  "detail" : "They are nocturnal",
+  "url" : "localhost:8080/zoo/animals/loris"
+}, {
+  "animal" : "manatee",
+  "continents" : [ "Ocean" ],
+  "detail" : "They can weigh as much as 1,300 lbs",
+  "url" : "localhost:8080/zoo/animals/manatee"
+}, {
+  "animal" : "nightingale",
+  "continents" : null,
+  "detail" : "It's song is described as one of the most beautiful sounds in nature",
+  "url" : "localhost:8080/zoo/animals/nightingale"
+}, {
+  "animal" : "orangutan",
+  "continents" : [ "Asia" ],
+  "detail" : "They spend most of their time in trees",
+  "url" : "localhost:8080/zoo/animals/orangutan"
+}, {
+  "animal" : "piranha",
+  "continents" : [ "South America" ],
+  "detail" : "They have one of the strongest bites found in bony fish",
+  "url" : "localhost:8080/zoo/animals/piranha"
+}, {
+  "animal" : "quail",
+  "continents" : [ "North America", "Europe", "Asia", "Africa", "South America", "Australia" ],
+  "detail" : "In 2007 40 million quail were produced in the U.S.",
+  "url" : "localhost:8080/zoo/animals/quail"
+}, {
+  "animal" : "rhinoceros",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Their skin is 1.5-5cm thick",
+  "url" : "localhost:8080/zoo/animals/rhinoceros"
+}, {
+  "animal" : "squirrel",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "The earliest known squirrels date from the Eocene",
+  "url" : "localhost:8080/zoo/animals/squirrel"
+}, {
+  "animal" : "tree_frog",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "They live in trees",
+  "url" : "localhost:8080/zoo/animals/tree_frog"
+}, {
+  "animal" : "unicorn",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Surfing rainbows",
+  "url" : "localhost:8080/zoo/animals/unicorn"
+}, {
+  "animal" : "velociraptor",
+  "continents" : [ "Pangaea" ],
+  "detail" : "Thought to have feathers",
+  "url" : "localhost:8080/zoo/animals/velociraptor"
+}, {
+  "animal" : "whale",
+  "continents" : [ "Ocean" ],
+  "detail" : "They range from 8.5 feet to 98 feet",
+  "url" : "localhost:8080/zoo/animals/whale"
+}, {
+  "animal" : "xray_tetra",
+  "continents" : [ "South America" ],
+  "detail" : "Lives in large groups",
+  "url" : "localhost:8080/zoo/animals/xray_tetra"
+}, {
+  "animal" : "yak",
+  "continents" : [ "Asia" ],
+  "detail" : "One of the largest bovids",
+  "url" : "localhost:8080/zoo/animals/yak"
+}, {
+  "animal" : "zebu",
+  "continents" : [ "Asia" ],
+  "detail" : "In 1999 researches at Texas A&M Univeristy successfully cloned it",
+  "url" : "localhost:8080/zoo/animals/zebu"
+}]
+14:19:50.776 [main] WARN ironyard.SpringStarter - Will this show up?
+14:19:51.284 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 9640 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:19:51.285 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:19:51.288 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:19:52.893 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:19:53.503 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.624 seconds (JVM running for 5.845)
+14:19:56.769 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:20:22.982 [http-nio-8080-exec-7] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:25:43.461 [main] WARN ironyard.SpringStarter - Will this show up?
+14:25:43.930 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 9344 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:25:43.931 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:25:43.934 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:25:45.552 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:25:46.111 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.548 seconds (JVM running for 5.612)
+14:25:50.754 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:25:53.681 [http-nio-8080-exec-3] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:25:53.872 [http-nio-8080-exec-5] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:25:54.019 [http-nio-8080-exec-7] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:25:54.176 [http-nio-8080-exec-9] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:27:36.748 [main] WARN ironyard.SpringStarter - Will this show up?
+14:27:37.191 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8648 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:27:37.193 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:27:37.196 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:27:38.776 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:27:39.327 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.485 seconds (JVM running for 5.512)
+14:27:47.422 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{
+  "animal" : "aardvark",
+  "continents" : [ "Africa" ],
+  "detail" : "It's somtimes colloquially called African ant bear",
+  "url" : "localhost:8080/zoo/animals/aardvark"
+}, {
+  "animal" : "baboon",
+  "continents" : [ "Africa", "Arabia" ],
+  "detail" : "They are some of the largest non-hominoid members of the primate order",
+  "url" : "localhost:8080/zoo/animals/baboon"
+}, {
+  "animal" : "chimpanzee",
+  "continents" : [ "Africa" ],
+  "detail" : "One of the largest-brained, and most intelligent of primates",
+  "url" : "localhost:8080/zoo/animals/chimpanzee"
+}, {
+  "animal" : "donkey",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "Has been used as a working animal for at least 5000 years",
+  "url" : "localhost:8080/zoo/animals/donkey"
+}, {
+  "animal" : "elephant",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Male elephants are the largest extant terrestrial anmimal",
+  "url" : "localhost:8080/zoo/animals/elephant"
+}, {
+  "animal" : "fish",
+  "continents" : [ "Ocean" ],
+  "detail" : "They all breath underwater",
+  "url" : "localhost:8080/zoo/animals/fish"
+}, {
+  "animal" : "gorilla",
+  "continents" : [ "Africa" ],
+  "detail" : "Their DNA is highly similar to that of humans",
+  "url" : "localhost:8080/zoo/animals/gorilla"
+}, {
+  "animal" : "horse",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "They are able to sleep both standing and lying down",
+  "url" : "localhost:8080/zoo/animals/horse"
+}, {
+  "animal" : "iguana",
+  "continents" : [ "North America", "South America" ],
+  "detail" : "THey have a tiny third eye on their head that senses light",
+  "url" : "localhost:8080/zoo/animals/iguana"
+}, {
+  "animal" : "jackalope",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Not real",
+  "url" : "localhost:8080/zoo/animals/jackalope"
+}, {
+  "animal" : "kangaroo",
+  "continents" : null,
+  "detail" : "Around 34.3 million kangaroos lived in Australia in 2011",
+  "url" : "localhost:8080/zoo/animals/kangaroo"
+}, {
+  "animal" : "loris",
+  "continents" : [ "Asia" ],
+  "detail" : "They are nocturnal",
+  "url" : "localhost:8080/zoo/animals/loris"
+}, {
+  "animal" : "manatee",
+  "continents" : [ "Ocean" ],
+  "detail" : "They can weigh as much as 1,300 lbs",
+  "url" : "localhost:8080/zoo/animals/manatee"
+}, {
+  "animal" : "nightingale",
+  "continents" : null,
+  "detail" : "It's song is described as one of the most beautiful sounds in nature",
+  "url" : "localhost:8080/zoo/animals/nightingale"
+}, {
+  "animal" : "orangutan",
+  "continents" : [ "Asia" ],
+  "detail" : "They spend most of their time in trees",
+  "url" : "localhost:8080/zoo/animals/orangutan"
+}, {
+  "animal" : "piranha",
+  "continents" : [ "South America" ],
+  "detail" : "They have one of the strongest bites found in bony fish",
+  "url" : "localhost:8080/zoo/animals/piranha"
+}, {
+  "animal" : "quail",
+  "continents" : [ "North America", "Europe", "Asia", "Africa", "South America", "Australia" ],
+  "detail" : "In 2007 40 million quail were produced in the U.S.",
+  "url" : "localhost:8080/zoo/animals/quail"
+}, {
+  "animal" : "rhinoceros",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Their skin is 1.5-5cm thick",
+  "url" : "localhost:8080/zoo/animals/rhinoceros"
+}, {
+  "animal" : "squirrel",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "The earliest known squirrels date from the Eocene",
+  "url" : "localhost:8080/zoo/animals/squirrel"
+}, {
+  "animal" : "tree_frog",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "They live in trees",
+  "url" : "localhost:8080/zoo/animals/tree_frog"
+}, {
+  "animal" : "unicorn",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Surfing rainbows",
+  "url" : "localhost:8080/zoo/animals/unicorn"
+}, {
+  "animal" : "velociraptor",
+  "continents" : [ "Pangaea" ],
+  "detail" : "Thought to have feathers",
+  "url" : "localhost:8080/zoo/animals/velociraptor"
+}, {
+  "animal" : "whale",
+  "continents" : [ "Ocean" ],
+  "detail" : "They range from 8.5 feet to 98 feet",
+  "url" : "localhost:8080/zoo/animals/whale"
+}, {
+  "animal" : "xray_tetra",
+  "continents" : [ "South America" ],
+  "detail" : "Lives in large groups",
+  "url" : "localhost:8080/zoo/animals/xray_tetra"
+}, {
+  "animal" : "yak",
+  "continents" : [ "Asia" ],
+  "detail" : "One of the largest bovids",
+  "url" : "localhost:8080/zoo/animals/yak"
+}, {
+  "animal" : "zebu",
+  "continents" : [ "Asia" ],
+  "detail" : "In 1999 researches at Texas A&M Univeristy successfully cloned it",
+  "url" : "localhost:8080/zoo/animals/zebu"
+}]
+14:28:26.005 [main] WARN ironyard.SpringStarter - Will this show up?
+14:28:26.489 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 5916 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:28:26.491 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:28:26.494 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:28:28.140 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:28:28.762 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.652 seconds (JVM running for 5.742)
+14:28:39.571 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:37:15.371 [http-nio-8080-exec-6] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:42:02.942 [main] WARN ironyard.SpringStarter - Will this show up?
+14:42:03.398 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 9372 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:42:03.400 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:42:03.404 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:42:05.045 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:42:05.686 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.645 seconds (JVM running for 5.707)
+14:42:14.636 [http-nio-8080-exec-2] DEBUG zoo.ZooController - [{
+  "animal" : "aardvark",
+  "continents" : [ "Africa" ],
+  "detail" : "It's somtimes colloquially called African ant bear",
+  "url" : "localhost:8080/zoo/animals/aardvark"
+}, {
+  "animal" : "baboon",
+  "continents" : [ "Africa", "Arabia" ],
+  "detail" : "They are some of the largest non-hominoid members of the primate order",
+  "url" : "localhost:8080/zoo/animals/baboon"
+}, {
+  "animal" : "chimpanzee",
+  "continents" : [ "Africa" ],
+  "detail" : "One of the largest-brained, and most intelligent of primates",
+  "url" : "localhost:8080/zoo/animals/chimpanzee"
+}, {
+  "animal" : "donkey",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "Has been used as a working animal for at least 5000 years",
+  "url" : "localhost:8080/zoo/animals/donkey"
+}, {
+  "animal" : "elephant",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Male elephants are the largest extant terrestrial anmimal",
+  "url" : "localhost:8080/zoo/animals/elephant"
+}, {
+  "animal" : "fish",
+  "continents" : [ "Ocean" ],
+  "detail" : "They all breath underwater",
+  "url" : "localhost:8080/zoo/animals/fish"
+}, {
+  "animal" : "gorilla",
+  "continents" : [ "Africa" ],
+  "detail" : "Their DNA is highly similar to that of humans",
+  "url" : "localhost:8080/zoo/animals/gorilla"
+}, {
+  "animal" : "horse",
+  "continents" : [ "North America", "South America", "Africa", "Europe", "Asia", "Australia", "Antarctica" ],
+  "detail" : "They are able to sleep both standing and lying down",
+  "url" : "localhost:8080/zoo/animals/horse"
+}, {
+  "animal" : "iguana",
+  "continents" : [ "North America", "South America" ],
+  "detail" : "THey have a tiny third eye on their head that senses light",
+  "url" : "localhost:8080/zoo/animals/iguana"
+}, {
+  "animal" : "jackalope",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Not real",
+  "url" : "localhost:8080/zoo/animals/jackalope"
+}, {
+  "animal" : "kangaroo",
+  "continents" : null,
+  "detail" : "Around 34.3 million kangaroos lived in Australia in 2011",
+  "url" : "localhost:8080/zoo/animals/kangaroo"
+}, {
+  "animal" : "loris",
+  "continents" : [ "Asia" ],
+  "detail" : "They are nocturnal",
+  "url" : "localhost:8080/zoo/animals/loris"
+}, {
+  "animal" : "manatee",
+  "continents" : [ "Ocean" ],
+  "detail" : "They can weigh as much as 1,300 lbs",
+  "url" : "localhost:8080/zoo/animals/manatee"
+}, {
+  "animal" : "nightingale",
+  "continents" : null,
+  "detail" : "It's song is described as one of the most beautiful sounds in nature",
+  "url" : "localhost:8080/zoo/animals/nightingale"
+}, {
+  "animal" : "orangutan",
+  "continents" : [ "Asia" ],
+  "detail" : "They spend most of their time in trees",
+  "url" : "localhost:8080/zoo/animals/orangutan"
+}, {
+  "animal" : "piranha",
+  "continents" : [ "South America" ],
+  "detail" : "They have one of the strongest bites found in bony fish",
+  "url" : "localhost:8080/zoo/animals/piranha"
+}, {
+  "animal" : "quail",
+  "continents" : [ "North America", "Europe", "Asia", "Africa", "South America", "Australia" ],
+  "detail" : "In 2007 40 million quail were produced in the U.S.",
+  "url" : "localhost:8080/zoo/animals/quail"
+}, {
+  "animal" : "rhinoceros",
+  "continents" : [ "Africa", "Asia" ],
+  "detail" : "Their skin is 1.5-5cm thick",
+  "url" : "localhost:8080/zoo/animals/rhinoceros"
+}, {
+  "animal" : "squirrel",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "The earliest known squirrels date from the Eocene",
+  "url" : "localhost:8080/zoo/animals/squirrel"
+}, {
+  "animal" : "tree_frog",
+  "continents" : [ "North America", "South America", "Europe", "Asia", "Africa", "Australia" ],
+  "detail" : "They live in trees",
+  "url" : "localhost:8080/zoo/animals/tree_frog"
+}, {
+  "animal" : "unicorn",
+  "continents" : [ "Fantasy Land" ],
+  "detail" : "Surfing rainbows",
+  "url" : "localhost:8080/zoo/animals/unicorn"
+}, {
+  "animal" : "velociraptor",
+  "continents" : [ "Pangaea" ],
+  "detail" : "Thought to have feathers",
+  "url" : "localhost:8080/zoo/animals/velociraptor"
+}, {
+  "animal" : "whale",
+  "continents" : [ "Ocean" ],
+  "detail" : "They range from 8.5 feet to 98 feet",
+  "url" : "localhost:8080/zoo/animals/whale"
+}, {
+  "animal" : "xray_tetra",
+  "continents" : [ "South America" ],
+  "detail" : "Lives in large groups",
+  "url" : "localhost:8080/zoo/animals/xray_tetra"
+}, {
+  "animal" : "yak",
+  "continents" : [ "Asia" ],
+  "detail" : "One of the largest bovids",
+  "url" : "localhost:8080/zoo/animals/yak"
+}, {
+  "animal" : "zebu",
+  "continents" : [ "Asia" ],
+  "detail" : "In 1999 researches at Texas A&M Univeristy successfully cloned it",
+  "url" : "localhost:8080/zoo/animals/zebu"
+}]
+14:43:02.246 [main] WARN ironyard.SpringStarter - Will this show up?
+14:43:02.748 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 10776 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:43:02.749 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:43:02.753 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:43:04.383 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:43:05.013 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.662 seconds (JVM running for 5.666)
+14:43:05.369 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{"animal":"aardvark","continents":["Africa"],"detail":"It's somtimes colloquially called African ant bear","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","continents":["Africa","Arabia"],"detail":"They are some of the largest non-hominoid members of the primate order","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","continents":["Africa"],"detail":"One of the largest-brained, and most intelligent of primates","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"Has been used as a working animal for at least 5000 years","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","continents":["Africa","Asia"],"detail":"Male elephants are the largest extant terrestrial anmimal","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","continents":["Ocean"],"detail":"They all breath underwater","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","continents":["Africa"],"detail":"Their DNA is highly similar to that of humans","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","continents":["North America","South America","Africa","Europe","Asia","Australia","Antarctica"],"detail":"They are able to sleep both standing and lying down","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","continents":["North America","South America"],"detail":"THey have a tiny third eye on their head that senses light","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","continents":["Fantasy Land"],"detail":"Not real","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","continents":null,"detail":"Around 34.3 million kangaroos lived in Australia in 2011","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","continents":["Asia"],"detail":"They are nocturnal","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","continents":["Ocean"],"detail":"They can weigh as much as 1,300 lbs","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","continents":null,"detail":"It's song is described as one of the most beautiful sounds in nature","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","continents":["Asia"],"detail":"They spend most of their time in trees","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","continents":["South America"],"detail":"They have one of the strongest bites found in bony fish","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","continents":["North America","Europe","Asia","Africa","South America","Australia"],"detail":"In 2007 40 million quail were produced in the U.S.","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","continents":["Africa","Asia"],"detail":"Their skin is 1.5-5cm thick","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"The earliest known squirrels date from the Eocene","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","continents":["North America","South America","Europe","Asia","Africa","Australia"],"detail":"They live in trees","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","continents":["Fantasy Land"],"detail":"Surfing rainbows","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","continents":["Pangaea"],"detail":"Thought to have feathers","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","continents":["Ocean"],"detail":"They range from 8.5 feet to 98 feet","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","continents":["South America"],"detail":"Lives in large groups","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","continents":["Asia"],"detail":"One of the largest bovids","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","continents":["Asia"],"detail":"In 1999 researches at Texas A&M Univeristy successfully cloned it","url":"localhost:8080/zoo/animals/zebu"}]
+14:53:23.415 [main] WARN ironyard.SpringStarter - Will this show up?
+14:53:23.872 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 10436 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:53:23.873 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:53:23.877 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+14:53:25.492 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:53:26.116 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.597 seconds (JVM running for 5.7)
+14:53:35.509 [http-nio-8080-exec-2] DEBUG zoo.ZooController - [{"animal":"aardvark","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","url":"localhost:8080/zoo/animals/zebu"}]
+15:14:17.114 [main] WARN ironyard.SpringStarter - Will this show up?
+15:14:17.559 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 7172 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:14:17.561 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:14:17.563 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:14:19.065 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:14:19.641 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.432 seconds (JVM running for 5.409)
+15:14:32.199 [http-nio-8080-exec-2] DEBUG zoo.ZooController - [{"animal":"aardvark","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","url":"localhost:8080/zoo/animals/zebu"}]
+15:15:32.584 [http-nio-8080-exec-4] DEBUG zoo.ZooController - [{"animal":"aardvark","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","url":"localhost:8080/zoo/animals/zebu"}]
+15:23:12.315 [main] WARN ironyard.SpringStarter - Will this show up?
+15:23:12.771 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 8104 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:23:12.773 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:23:12.776 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:23:14.797 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:23:15.364 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.949 seconds (JVM running for 6.127)
+15:23:42.532 [main] WARN ironyard.SpringStarter - Will this show up?
+15:23:42.954 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 5900 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:23:42.955 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:23:42.955 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:23:44.553 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:23:45.125 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.49 seconds (JVM running for 5.474)
+15:24:22.308 [main] WARN ironyard.SpringStarter - Will this show up?
+15:24:22.774 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 4424 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:24:22.775 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:24:22.775 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:24:24.779 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:24:25.645 [main] INFO ironyard.SpringStarter - Started SpringStarter in 3.223 seconds (JVM running for 6.52)
+15:24:27.663 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{"animal":"aardvark","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","url":"localhost:8080/zoo/animals/zebu"}]
+15:25:16.426 [http-nio-8080-exec-3] DEBUG zoo.ZooController - [{"animal":"aardvark","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","url":"localhost:8080/zoo/animals/zebu"}]
+15:26:46.747 [main] WARN ironyard.SpringStarter - Will this show up?
+15:26:47.214 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 9528 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:26:47.214 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:26:47.215 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:26:49.034 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:26:49.673 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.834 seconds (JVM running for 5.954)
+15:27:05.862 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{"animal":"aardvark","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","url":"localhost:8080/zoo/animals/zebu"}]
+15:27:44.511 [main] WARN ironyard.SpringStarter - Will this show up?
+15:27:44.980 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 10516 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:27:44.983 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:27:44.987 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:27:46.721 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:27:47.278 [main] INFO ironyard.SpringStarter - Started SpringStarter in 2.671 seconds (JVM running for 5.718)
+15:28:14.286 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{"animal":"aardvark","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","url":"localhost:8080/zoo/animals/zebu"}]
+15:57:17.133 [main] WARN ironyard.SpringStarter - Will this show up?
+15:57:17.522 [main] INFO ironyard.SpringStarter - Starting SpringStarter on PC11 with PID 5756 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:57:17.524 [main] DEBUG ironyard.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:57:17.527 [main] INFO ironyard.SpringStarter - No active profile set, falling back to default profiles: default
+15:57:18.749 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:57:19.191 [main] INFO ironyard.SpringStarter - Started SpringStarter in 1.967 seconds (JVM running for 4.333)
+15:57:25.667 [http-nio-8080-exec-1] DEBUG zoo.ZooController - [{"animal":"aardvark","url":"localhost:8080/zoo/animals/aardvark"}, {"animal":"baboon","url":"localhost:8080/zoo/animals/baboon"}, {"animal":"chimpanzee","url":"localhost:8080/zoo/animals/chimpanzee"}, {"animal":"donkey","url":"localhost:8080/zoo/animals/donkey"}, {"animal":"elephant","url":"localhost:8080/zoo/animals/elephant"}, {"animal":"fish","url":"localhost:8080/zoo/animals/fish"}, {"animal":"gorilla","url":"localhost:8080/zoo/animals/gorilla"}, {"animal":"horse","url":"localhost:8080/zoo/animals/horse"}, {"animal":"iguana","url":"localhost:8080/zoo/animals/iguana"}, {"animal":"jackalope","url":"localhost:8080/zoo/animals/jackalope"}, {"animal":"kangaroo","url":"localhost:8080/zoo/animals/kangaroo"}, {"animal":"loris","url":"localhost:8080/zoo/animals/loris"}, {"animal":"manatee","url":"localhost:8080/zoo/animals/manatee"}, {"animal":"nightingale","url":"localhost:8080/zoo/animals/nightingale"}, {"animal":"orangutan","url":"localhost:8080/zoo/animals/orangutan"}, {"animal":"piranha","url":"localhost:8080/zoo/animals/piranha"}, {"animal":"quail","url":"localhost:8080/zoo/animals/quail"}, {"animal":"rhinoceros","url":"localhost:8080/zoo/animals/rhinoceros"}, {"animal":"squirrel","url":"localhost:8080/zoo/animals/squirrel"}, {"animal":"tree_frog","url":"localhost:8080/zoo/animals/tree_frog"}, {"animal":"unicorn","url":"localhost:8080/zoo/animals/unicorn"}, {"animal":"velociraptor","url":"localhost:8080/zoo/animals/velociraptor"}, {"animal":"whale","url":"localhost:8080/zoo/animals/whale"}, {"animal":"xray_tetra","url":"localhost:8080/zoo/animals/xray_tetra"}, {"animal":"yak","url":"localhost:8080/zoo/animals/yak"}, {"animal":"zebu","url":"localhost:8080/zoo/animals/zebu"}]
+09:41:20.772 [main] INFO web.SpringStarter - Starting web app
+09:41:21.346 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 5592 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:41:21.347 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:41:21.350 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+09:41:23.337 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:41:24.040 [main] INFO web.SpringStarter - Started SpringStarter in 3.149 seconds (JVM running for 6.597)
+09:43:46.358 [main] INFO web.SpringStarter - Starting web app
+09:43:46.849 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8028 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:43:46.851 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:43:46.854 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+09:43:48.617 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:43:49.272 [main] INFO web.SpringStarter - Started SpringStarter in 2.804 seconds (JVM running for 6.223)
+09:44:09.598 [main] INFO web.SpringStarter - Starting web app
+09:44:10.105 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7924 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:44:10.106 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:44:10.109 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+09:44:11.803 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:44:12.472 [main] INFO web.SpringStarter - Started SpringStarter in 2.762 seconds (JVM running for 6.246)
+09:46:32.918 [main] INFO web.SpringStarter - Starting web app
+09:46:33.381 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 5740 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:46:33.382 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:46:33.385 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+09:46:35.095 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:46:35.685 [main] INFO web.SpringStarter - Started SpringStarter in 2.667 seconds (JVM running for 5.896)
+09:55:50.342 [main] INFO web.SpringStarter - Starting web app
+09:55:50.809 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 884 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:55:50.811 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:55:50.813 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+09:55:52.604 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:55:53.321 [main] INFO web.SpringStarter - Started SpringStarter in 2.876 seconds (JVM running for 6.234)
+09:57:14.145 [main] INFO web.SpringStarter - Starting web app
+09:57:14.606 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7912 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:57:14.608 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:57:14.611 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+09:57:16.296 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:57:16.941 [main] INFO web.SpringStarter - Started SpringStarter in 2.695 seconds (JVM running for 5.824)
+09:58:27.177 [main] INFO web.SpringStarter - Starting web app
+09:58:27.663 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8260 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+09:58:27.664 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+09:58:27.667 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+09:58:29.311 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+09:58:30.037 [main] INFO web.SpringStarter - Started SpringStarter in 2.764 seconds (JVM running for 6.086)
+11:03:03.720 [main] INFO web.SpringStarter - Starting web app
+11:03:04.162 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8632 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+11:03:04.164 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:03:04.167 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+11:03:35.561 [main] INFO web.SpringStarter - Starting web app
+11:03:36.169 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7208 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+11:03:36.171 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:03:36.174 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+11:07:55.903 [main] INFO web.SpringStarter - Starting web app
+11:07:56.470 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 6720 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+11:07:56.471 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:07:56.473 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+11:15:06.560 [main] INFO web.SpringStarter - Starting web app
+11:15:07.123 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8560 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+11:15:07.125 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:15:07.128 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+11:15:09.376 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:15:10.142 [main] INFO web.SpringStarter - Started SpringStarter in 3.472 seconds (JVM running for 6.857)
+11:19:19.621 [main] INFO web.SpringStarter - Starting web app
+11:19:19.967 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 4240 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+11:19:19.969 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:19:19.971 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+11:19:21.321 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:19:21.801 [main] INFO web.SpringStarter - Started SpringStarter in 2.105 seconds (JVM running for 4.469)
+11:22:53.916 [main] INFO web.SpringStarter - Starting web app
+11:22:54.268 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 1716 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+11:22:54.270 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:22:54.272 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+11:22:55.610 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:22:56.093 [main] INFO web.SpringStarter - Started SpringStarter in 2.096 seconds (JVM running for 4.533)
+11:24:04.920 [main] INFO web.SpringStarter - Starting web app
+11:24:05.257 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 604 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+11:24:05.258 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:24:05.261 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+11:24:06.514 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:24:06.984 [main] INFO web.SpringStarter - Started SpringStarter in 1.987 seconds (JVM running for 4.438)
+11:28:14.742 [main] INFO web.SpringStarter - Starting web app
+11:28:15.110 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7512 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+11:28:15.112 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:28:15.116 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+11:28:16.427 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:28:16.843 [main] INFO web.SpringStarter - Started SpringStarter in 2.032 seconds (JVM running for 4.353)
+11:31:33.844 [main] INFO web.SpringStarter - Starting web app
+11:31:34.202 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 6268 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+11:31:34.205 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+11:31:34.208 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+11:31:35.467 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+11:31:35.960 [main] INFO web.SpringStarter - Started SpringStarter in 2.037 seconds (JVM running for 4.443)
+12:26:58.774 [main] INFO web.SpringStarter - Starting web app
+12:26:59.152 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 2016 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:26:59.153 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:26:59.155 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:27:00.393 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:27:00.847 [main] INFO web.SpringStarter - Started SpringStarter in 1.983 seconds (JVM running for 4.433)
+12:30:33.036 [main] INFO web.SpringStarter - Starting web app
+12:30:33.417 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 1520 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:30:33.418 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:30:33.421 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:30:34.736 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:30:35.228 [main] INFO web.SpringStarter - Started SpringStarter in 2.11 seconds (JVM running for 4.562)
+12:36:28.040 [main] INFO web.SpringStarter - Starting web app
+12:36:28.405 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8256 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:36:28.407 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:36:28.409 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:36:29.848 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:36:30.443 [main] INFO web.SpringStarter - Started SpringStarter in 2.322 seconds (JVM running for 4.818)
+12:39:13.816 [main] INFO web.SpringStarter - Starting web app
+12:39:14.200 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 3472 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:39:14.202 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:39:14.204 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:39:15.473 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:39:15.932 [main] INFO web.SpringStarter - Started SpringStarter in 2.035 seconds (JVM running for 4.444)
+12:39:36.443 [http-nio-8080-exec-2] DEBUG web.SudokuController - null
+12:40:33.035 [main] INFO web.SpringStarter - Starting web app
+12:40:33.388 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8760 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:40:33.389 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:40:33.391 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:40:34.656 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:40:35.142 [main] INFO web.SpringStarter - Started SpringStarter in 2.028 seconds (JVM running for 4.419)
+12:40:46.553 [http-nio-8080-exec-2] DEBUG web.SudokuController - null
+12:42:44.815 [main] INFO web.SpringStarter - Starting web app
+12:42:45.399 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 3492 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:42:45.401 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:42:45.408 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:42:50.530 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:42:54.142 [main] INFO web.SpringStarter - Started SpringStarter in 9.216 seconds (JVM running for 12.208)
+12:53:41.738 [main] INFO web.SpringStarter - Starting web app
+12:53:42.207 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 1492 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:53:42.209 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:53:42.220 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:53:46.627 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:53:49.778 [main] INFO web.SpringStarter - Started SpringStarter in 7.954 seconds (JVM running for 10.367)
+12:54:50.084 [main] INFO web.SpringStarter - Starting web app
+12:54:50.527 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 6792 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:54:50.529 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:54:50.538 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:54:54.697 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:54:57.961 [main] INFO web.SpringStarter - Started SpringStarter in 7.796 seconds (JVM running for 10.21)
+12:56:02.416 [main] INFO web.SpringStarter - Starting web app
+12:56:02.894 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 2276 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:56:02.896 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:56:02.905 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:56:07.038 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:56:10.195 [main] INFO web.SpringStarter - Started SpringStarter in 7.698 seconds (JVM running for 10.082)
+12:56:14.834 [http-nio-8080-exec-4] DEBUG web.SudokuController - null
+12:57:48.141 [main] INFO web.SpringStarter - Starting web app
+12:57:48.617 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8740 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+12:57:48.618 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+12:57:48.626 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+12:57:52.842 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+12:57:56.160 [main] INFO web.SpringStarter - Started SpringStarter in 7.934 seconds (JVM running for 10.352)
+12:58:02.410 [http-nio-8080-exec-4] DEBUG web.SudokuController - null
+12:58:07.236 [http-nio-8080-exec-7] DEBUG web.SudokuController - null
+13:07:46.036 [main] INFO web.SpringStarter - Starting web app
+13:07:46.508 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 6480 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:07:46.510 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:07:46.519 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:07:50.719 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:07:53.896 [main] INFO web.SpringStarter - Started SpringStarter in 7.781 seconds (JVM running for 10.215)
+13:08:02.478 [http-nio-8080-exec-4] DEBUG web.SudokuController - null
+13:08:14.251 [http-nio-8080-exec-1] DEBUG web.SudokuController - null
+13:12:01.468 [main] INFO web.SpringStarter - Starting web app
+13:12:01.934 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7300 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:12:01.936 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:12:01.945 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:12:04.428 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:12:05.000 [main] INFO web.SpringStarter - Started SpringStarter in 3.455 seconds (JVM running for 5.883)
+13:24:45.380 [main] INFO web.SpringStarter - Starting web app
+13:24:45.848 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 4360 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:24:45.850 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:24:45.860 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:24:50.196 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:24:53.751 [main] INFO web.SpringStarter - Started SpringStarter in 8.29 seconds (JVM running for 10.66)
+13:25:40.197 [main] INFO web.SpringStarter - Starting web app
+13:25:40.685 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 4192 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:25:40.687 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:25:40.695 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:25:44.752 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:25:47.920 [main] INFO web.SpringStarter - Started SpringStarter in 7.646 seconds (JVM running for 10.025)
+13:29:18.707 [main] INFO web.SpringStarter - Starting web app
+13:29:19.146 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 4680 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:29:19.147 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:29:19.155 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:29:23.236 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:29:26.399 [main] INFO web.SpringStarter - Started SpringStarter in 7.614 seconds (JVM running for 9.98)
+13:32:18.167 [main] INFO web.SpringStarter - Starting web app
+13:32:18.628 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8416 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:32:18.630 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:32:18.639 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:32:22.710 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:32:25.823 [main] INFO web.SpringStarter - Started SpringStarter in 7.572 seconds (JVM running for 9.952)
+13:33:49.189 [main] INFO web.SpringStarter - Starting web app
+13:33:49.668 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 4180 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:33:49.670 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:33:49.680 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:33:53.793 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:33:56.908 [main] INFO web.SpringStarter - Started SpringStarter in 7.647 seconds (JVM running for 10.043)
+13:35:07.595 [main] INFO web.SpringStarter - Starting web app
+13:35:08.055 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 6164 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:35:08.057 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:35:08.066 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:35:12.195 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:35:15.310 [main] INFO web.SpringStarter - Started SpringStarter in 7.637 seconds (JVM running for 10.074)
+13:37:08.072 [main] INFO web.SpringStarter - Starting web app
+13:37:08.530 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7000 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:37:08.532 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:37:08.540 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:37:12.673 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:37:16.018 [main] INFO web.SpringStarter - Started SpringStarter in 7.867 seconds (JVM running for 10.295)
+13:37:20.797 [http-nio-8080-exec-4] DEBUG web.SudokuController - null
+13:40:01.252 [main] INFO web.SpringStarter - Starting web app
+13:40:01.704 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 6084 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:40:01.706 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:40:01.718 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:40:05.869 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:40:08.985 [main] INFO web.SpringStarter - Started SpringStarter in 7.656 seconds (JVM running for 10.027)
+13:40:15.416 [http-nio-8080-exec-4] DEBUG web.SudokuController - null
+13:43:41.563 [main] INFO web.SpringStarter - Starting web app
+13:43:42.027 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7484 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:43:42.029 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:43:42.038 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:43:46.280 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:43:49.449 [main] INFO web.SpringStarter - Started SpringStarter in 7.805 seconds (JVM running for 10.192)
+13:43:58.396 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+13:44:46.129 [main] INFO web.SpringStarter - Starting web app
+13:44:46.587 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7724 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:44:46.589 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:44:46.597 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:44:50.769 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:44:53.903 [main] INFO web.SpringStarter - Started SpringStarter in 7.697 seconds (JVM running for 10.122)
+13:45:26.430 [main] INFO web.SpringStarter - Starting web app
+13:45:26.894 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 2556 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:45:26.896 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:45:26.904 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:45:31.047 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:45:34.350 [main] INFO web.SpringStarter - Started SpringStarter in 7.834 seconds (JVM running for 10.219)
+13:45:40.563 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+13:47:55.257 [main] INFO web.SpringStarter - Starting web app
+13:47:55.746 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 5648 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:47:55.747 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:47:55.757 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:48:00.037 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:48:03.622 [main] INFO web.SpringStarter - Started SpringStarter in 8.273 seconds (JVM running for 10.638)
+13:48:09.243 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+13:49:40.490 [main] INFO web.SpringStarter - Starting web app
+13:49:40.950 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 5876 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:49:40.951 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:49:40.961 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:49:45.053 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:49:48.224 [main] INFO web.SpringStarter - Started SpringStarter in 7.656 seconds (JVM running for 10.033)
+13:49:56.349 [http-nio-8080-exec-2] DEBUG web.SudokuController - null
+13:50:48.480 [main] INFO web.SpringStarter - Starting web app
+13:50:48.947 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 5576 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:50:48.949 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:50:48.957 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:50:53.209 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:50:56.281 [main] INFO web.SpringStarter - Started SpringStarter in 7.721 seconds (JVM running for 10.183)
+13:51:01.941 [http-nio-8080-exec-2] DEBUG web.SudokuController - null
+13:52:49.688 [main] INFO web.SpringStarter - Starting web app
+13:52:50.140 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8548 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:52:50.142 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:52:50.150 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:52:54.188 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:52:57.236 [main] INFO web.SpringStarter - Started SpringStarter in 7.468 seconds (JVM running for 9.861)
+13:53:02.475 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+13:55:12.741 [main] INFO web.SpringStarter - Starting web app
+13:55:13.206 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7652 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+13:55:13.208 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+13:55:13.217 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+13:55:17.351 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+13:55:20.504 [main] INFO web.SpringStarter - Started SpringStarter in 7.669 seconds (JVM running for 10.055)
+13:55:28.809 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+13:56:29.662 [http-nio-8080-exec-6] DEBUG web.SudokuController - null
+13:56:58.034 [http-nio-8080-exec-9] DEBUG web.SudokuController - null
+14:00:59.453 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+14:02:46.405 [http-nio-8080-exec-7] DEBUG web.SudokuController - null
+14:03:08.862 [http-nio-8080-exec-10] DEBUG web.SudokuController - null
+14:03:47.960 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+14:07:52.195 [http-nio-8080-exec-7] DEBUG web.SudokuController - null
+14:08:50.137 [http-nio-8080-exec-10] DEBUG web.SudokuController - null
+14:09:33.335 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+14:10:58.149 [main] INFO web.SpringStarter - Starting web app
+14:10:58.597 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 4472 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:10:58.599 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:10:58.609 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+14:11:02.676 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:11:05.879 [main] INFO web.SpringStarter - Started SpringStarter in 7.646 seconds (JVM running for 10.026)
+14:11:11.767 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+14:18:11.652 [main] INFO web.SpringStarter - Starting web app
+14:18:12.103 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7224 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:18:12.105 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:18:12.114 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+14:18:16.314 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:18:19.520 [main] INFO web.SpringStarter - Started SpringStarter in 7.791 seconds (JVM running for 10.184)
+14:18:25.404 [http-nio-8080-exec-3] DEBUG web.SudokuController - 624978135319524678875136924187245369253769841946381752792413586461857293538692417
+14:19:39.692 [main] INFO web.SpringStarter - Starting web app
+14:19:40.156 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 9084 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:19:40.158 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:19:40.168 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+14:19:44.490 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:19:48.001 [main] INFO web.SpringStarter - Started SpringStarter in 8.232 seconds (JVM running for 10.7)
+14:19:52.084 [http-nio-8080-exec-3] DEBUG web.SudokuController - 624978135319524678875136924187245369253769841946381752792413586461857293538692417
+14:21:20.025 [main] INFO web.SpringStarter - Starting web app
+14:21:20.491 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7852 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:21:20.493 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:21:20.502 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+14:21:24.603 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:21:27.815 [main] INFO web.SpringStarter - Started SpringStarter in 7.71 seconds (JVM running for 10.109)
+14:21:34.319 [http-nio-8080-exec-3] DEBUG web.SudokuController - 624978135319524678875136924187245369253769841946381752792413586461857293538692417
+14:24:18.050 [main] INFO web.SpringStarter - Starting web app
+14:24:18.525 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 2972 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:24:18.527 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:24:18.536 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+14:24:22.698 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:24:26.093 [main] INFO web.SpringStarter - Started SpringStarter in 7.96 seconds (JVM running for 10.396)
+14:24:30.964 [http-nio-8080-exec-3] DEBUG web.SudokuController - 624978135319524678875136924187245369253769841946381752792413586461857293538692417
+14:26:29.159 [main] INFO web.SpringStarter - Starting web app
+14:26:29.620 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 6884 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:26:29.622 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:26:29.630 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+14:26:33.761 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:26:36.851 [main] INFO web.SpringStarter - Started SpringStarter in 7.608 seconds (JVM running for 10.08)
+14:26:56.902 [http-nio-8080-exec-3] DEBUG web.SudokuController - 624978135319524678875136924187245369253769841946381752792413586461857293538692417
+14:51:05.919 [main] INFO web.SpringStarter - Starting web app
+14:51:06.374 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 1692 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:51:06.375 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:51:06.384 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+14:51:10.480 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:51:13.578 [main] INFO web.SpringStarter - Started SpringStarter in 7.579 seconds (JVM running for 9.908)
+14:51:24.680 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+14:57:02.635 [main] INFO web.SpringStarter - Starting web app
+14:57:03.110 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7620 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+14:57:03.112 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+14:57:03.120 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+14:57:07.089 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+14:57:10.260 [main] INFO web.SpringStarter - Started SpringStarter in 7.544 seconds (JVM running for 9.939)
+14:57:29.408 [http-nio-8080-exec-3] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+14:57:36.032 [http-nio-8080-exec-6] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+14:57:38.797 [http-nio-8080-exec-9] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+14:57:41.338 [http-nio-8080-exec-2] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+14:57:45.660 [http-nio-8080-exec-5] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+14:57:48.588 [http-nio-8080-exec-8] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:01:26.754 [main] INFO web.SpringStarter - Starting web app
+15:01:27.208 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8668 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:01:27.210 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:01:27.219 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:01:31.395 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:01:34.786 [main] INFO web.SpringStarter - Started SpringStarter in 7.953 seconds (JVM running for 10.343)
+15:01:39.322 [http-nio-8080-exec-3] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:01:42.271 [http-nio-8080-exec-6] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:01:45.835 [http-nio-8080-exec-9] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:01:48.309 [http-nio-8080-exec-2] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:02:42.595 [main] INFO web.SpringStarter - Starting web app
+15:02:43.062 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 6268 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:02:43.064 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:02:43.072 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:02:47.292 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:02:50.407 [main] INFO web.SpringStarter - Started SpringStarter in 7.737 seconds (JVM running for 10.173)
+15:02:56.279 [http-nio-8080-exec-3] DEBUG web.SudokuController - 1
+15:02:56.282 [http-nio-8080-exec-3] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:06:23.906 [main] INFO web.SpringStarter - Starting web app
+15:06:24.385 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7544 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:06:24.387 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:06:24.396 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:06:28.639 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:06:31.781 [main] INFO web.SpringStarter - Started SpringStarter in 7.789 seconds (JVM running for 10.194)
+15:06:37.975 [http-nio-8080-exec-3] DEBUG web.SudokuController - 1
+15:06:37.976 [http-nio-8080-exec-3] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:10:35.469 [main] INFO web.SpringStarter - Starting web app
+15:10:35.954 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 2936 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:10:35.956 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:10:35.968 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:10:40.306 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:10:43.558 [main] INFO web.SpringStarter - Started SpringStarter in 8.005 seconds (JVM running for 10.478)
+15:11:43.550 [main] INFO web.SpringStarter - Starting web app
+15:11:43.998 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 9200 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:11:44.000 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:11:44.008 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:11:48.147 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:11:51.283 [main] INFO web.SpringStarter - Started SpringStarter in 7.659 seconds (JVM running for 10.052)
+15:11:59.037 [http-nio-8080-exec-3] DEBUG web.SudokuController - 10
+15:11:59.037 [http-nio-8080-exec-3] DEBUG web.SudokuController - null
+15:12:13.225 [http-nio-8080-exec-6] DEBUG web.SudokuController - 7
+15:12:13.226 [http-nio-8080-exec-6] DEBUG web.SudokuController - null
+15:13:35.488 [main] INFO web.SpringStarter - Starting web app
+15:13:35.953 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 6452 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:13:35.955 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:13:35.966 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:13:40.000 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:13:43.136 [main] INFO web.SpringStarter - Started SpringStarter in 7.564 seconds (JVM running for 9.915)
+15:13:48.605 [http-nio-8080-exec-3] DEBUG web.SudokuController - 6
+15:13:48.608 [http-nio-8080-exec-3] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:13:51.683 [http-nio-8080-exec-6] DEBUG web.SudokuController - 4
+15:13:51.684 [http-nio-8080-exec-6] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:13:54.722 [http-nio-8080-exec-9] DEBUG web.SudokuController - 1
+15:13:54.724 [http-nio-8080-exec-9] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:13:57.082 [http-nio-8080-exec-2] DEBUG web.SudokuController - 5
+15:13:57.082 [http-nio-8080-exec-2] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:13:59.898 [http-nio-8080-exec-5] DEBUG web.SudokuController - 8
+15:13:59.899 [http-nio-8080-exec-5] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:14:04.570 [http-nio-8080-exec-8] DEBUG web.SudokuController - 2
+15:14:04.571 [http-nio-8080-exec-8] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:14:06.885 [http-nio-8080-exec-1] DEBUG web.SudokuController - 2
+15:14:06.886 [http-nio-8080-exec-1] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:14:52.305 [http-nio-8080-exec-1] DEBUG web.SudokuController - 2
+15:14:52.306 [http-nio-8080-exec-1] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:15:02.207 [http-nio-8080-exec-10] DEBUG web.SudokuController - 9
+15:15:02.208 [http-nio-8080-exec-10] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:15:25.217 [http-nio-8080-exec-6] DEBUG web.SudokuController - 8
+15:15:25.218 [http-nio-8080-exec-6] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:17:24.592 [main] INFO web.SpringStarter - Starting web app
+15:17:25.039 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7504 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:17:25.040 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:17:25.049 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:17:29.215 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:17:32.841 [main] INFO web.SpringStarter - Started SpringStarter in 8.174 seconds (JVM running for 10.56)
+15:17:46.847 [http-nio-8080-exec-4] DEBUG web.SudokuController - 5
+15:17:46.852 [http-nio-8080-exec-4] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:19:09.971 [main] INFO web.SpringStarter - Starting web app
+15:19:10.446 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 3808 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:19:10.448 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:19:10.458 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:19:14.464 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:19:17.581 [main] INFO web.SpringStarter - Started SpringStarter in 7.536 seconds (JVM running for 9.915)
+15:19:25.459 [http-nio-8080-exec-4] DEBUG web.SudokuController - 2
+15:19:25.460 [http-nio-8080-exec-4] DEBUG web.SudokuController - 1
+15:19:25.465 [http-nio-8080-exec-4] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:22:58.534 [main] INFO web.SpringStarter - Starting web app
+15:22:59.013 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 8256 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:22:59.015 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:22:59.024 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:23:03.071 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:23:06.132 [main] INFO web.SpringStarter - Started SpringStarter in 7.509 seconds (JVM running for 9.977)
+15:23:11.455 [http-nio-8080-exec-4] DEBUG web.SudokuController - 5
+15:23:11.455 [http-nio-8080-exec-4] DEBUG web.SudokuController - 1
+15:23:11.458 [http-nio-8080-exec-4] DEBUG web.SudokuController - 624978135319524678875136924187245369253769841946381752792413586461857293538692417
+15:23:14.019 [http-nio-8080-exec-7] DEBUG web.SudokuController - 5
+15:23:14.019 [http-nio-8080-exec-7] DEBUG web.SudokuController - 1
+15:23:14.021 [http-nio-8080-exec-7] DEBUG web.SudokuController - 624978135319524678875136924187245369253769841946381752792413586461857293538692417
+15:23:17.074 [http-nio-8080-exec-10] DEBUG web.SudokuController - 9
+15:23:17.074 [http-nio-8080-exec-10] DEBUG web.SudokuController - 2
+15:23:17.076 [http-nio-8080-exec-10] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:28.202 [http-nio-8080-exec-9] DEBUG web.SudokuController - 5
+15:29:28.203 [http-nio-8080-exec-9] DEBUG web.SudokuController - 1
+15:29:28.203 [http-nio-8080-exec-9] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:29.103 [http-nio-8080-exec-10] DEBUG web.SudokuController - 7
+15:29:29.103 [http-nio-8080-exec-10] DEBUG web.SudokuController - 2
+15:29:29.104 [http-nio-8080-exec-10] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:29.302 [http-nio-8080-exec-4] DEBUG web.SudokuController - 6
+15:29:29.303 [http-nio-8080-exec-4] DEBUG web.SudokuController - 2
+15:29:29.303 [http-nio-8080-exec-4] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:30.070 [http-nio-8080-exec-2] DEBUG web.SudokuController - 7
+15:29:30.070 [http-nio-8080-exec-2] DEBUG web.SudokuController - 2
+15:29:30.071 [http-nio-8080-exec-2] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:30.262 [http-nio-8080-exec-3] DEBUG web.SudokuController - 4
+15:29:30.263 [http-nio-8080-exec-3] DEBUG web.SudokuController - 1
+15:29:30.263 [http-nio-8080-exec-3] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:31.389 [http-nio-8080-exec-1] DEBUG web.SudokuController - 5
+15:29:31.390 [http-nio-8080-exec-1] DEBUG web.SudokuController - 1
+15:29:31.390 [http-nio-8080-exec-1] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:32.214 [http-nio-8080-exec-5] DEBUG web.SudokuController - 10
+15:29:32.215 [http-nio-8080-exec-5] DEBUG web.SudokuController - 2
+15:29:32.215 [http-nio-8080-exec-5] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:32.430 [http-nio-8080-exec-6] DEBUG web.SudokuController - 4
+15:29:32.431 [http-nio-8080-exec-6] DEBUG web.SudokuController - 1
+15:29:32.431 [http-nio-8080-exec-6] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:32.591 [http-nio-8080-exec-7] DEBUG web.SudokuController - 6
+15:29:32.591 [http-nio-8080-exec-7] DEBUG web.SudokuController - 2
+15:29:32.591 [http-nio-8080-exec-7] DEBUG web.SudokuController - 175294836623187945894563271519732468347856129286941753938425617461379582752618394
+15:29:34.302 [http-nio-8080-exec-8] DEBUG web.SudokuController - 2
+15:29:34.302 [http-nio-8080-exec-8] DEBUG web.SudokuController - 1
+15:29:34.304 [http-nio-8080-exec-8] DEBUG web.SudokuController - 624978135319524678875136924187245369253769841946381752792413586461857293538692417
+15:32:09.068 [main] INFO web.SpringStarter - Starting web app
+15:32:09.512 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 7980 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+15:32:09.513 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+15:32:09.521 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+15:32:13.568 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+15:32:16.805 [main] INFO web.SpringStarter - Started SpringStarter in 7.656 seconds (JVM running for 10.1)

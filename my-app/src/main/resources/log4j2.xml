@@ -9,11 +9,11 @@
         </File>
     </Appenders>
     <Loggers>
-        <Logger name="com.ssa.ironyard" level="debug">
+        <Logger name="org.ssa.ironyard" level="debug">
         <AppenderRef ref ="log-file"/>
         <!-- takes precedence over root level -->
           </Logger> 
-        <Root level="warn">
+        <Root level="debug">
             <AppenderRef ref="Console" />
         </Root>
     </Loggers>
