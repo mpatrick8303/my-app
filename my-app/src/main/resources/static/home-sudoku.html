@@ -286,6 +286,7 @@
             function ajaxResponse(response)
             {
                 var errors = response['errors'];
+                
             }
 
             function simulateInitial()
@@ -335,7 +336,7 @@
             }
             function check()
             {
-                $.getJSON(buildSolution(), checkResponse, colorCheck);
+                $.getJSON(buildSolution(), checkResponse);
             }
             function checkResponse(response)
             {
@@ -355,14 +356,14 @@
                 
                 message.show()
             }
-            function colorCheck(response)
+            /*function colorCheck(response)
             {
             	for (let i = 0; i < response['errors'].length; i++)
 				{
             		 var input = $('#cell-' + resposne['errors'][i]);
             		 input.addClass('error')
 				}
-            }
+            }*/
             function buildSolution()
             {
                 solution = "/sudoku/"

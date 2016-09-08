@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="ISO-8859-1">
+	<title>Zoo Animals</title>
+	<style type="text/css">
+	
+		body{ background-image: url("C:/javaproject/maven/my-app/pictures/background2.jpg") ; overflow: hidden; height: 100% }
+		header{border: 4px solid yellow; background-color: green}
+		h1{text-align: center; font-size: 2.5em; color: yellow; }
+		section{font: small-caps; color: black;}
+		
+		#menu ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden;background-color: green; text-align: center;}
+	 	#menu li{display: inline-block;}
+	 	#menu li a {font-size:1.5em; color: white;text-align: center; padding: 14px 90px; text-decoration: none;}
+	 	#menu li a:hover{background-color: grey}
+	 	
+	 	#sidemenu ul{list-style-type: none; margin: 0;padding: 0; width: 12em; background-color: green; height: 20em; 
+	 				 position: fixed; overflow: hidden; border: 4px solid yellow; border-top: 0}
+	 	#sidemenu li{ text-align: center; padding-bottom: 2em; padding-top: 4em}
+	 	#sidemenu li a{font-size: 1.5em; color: white; text-decoration: none; }
+	 	#sidemenu li a:hover{background-color: grey}
+	 	
+	 	#header2{text-align: center; font-size: 2em; padding-top: 1em; color: blue}
+	 	
+	 	#animaltable table {margin-left: 20em; display:block;padding-top: 3em; }
+	 	#animaltable thead {width: 70em;height: 20px;display: inline-block;;padding-bottom: 2em}
+	 	#animaltable thead th{width:70em; padding-bottom: 5em;font-size: 2em; text-align: center; color: blue; }
+		#animaltable tbody {width: 75em;height: 25em;display: inline-block;overflow: auto;padding-top: 1em;}
+		#animaltable tbody td{padding-top: 1em;font-size: 1.2em; width:30em}
+		#aniamltable table tr{text-align: center}
+		#animaltable table tr.d0{background-color: 	#DCDCDC}		
+	 	#animaltable table tr.d1{background-color: 	#B0E0E6}
+	 	#animaltable table td.edit{text-align: right}
+		
+	 	footer{position: absolute; bottom: 2em; ; left: 24em}
+	 	footer ul{position: relative; list-style-type: none;}
+	 	footer li{display: inline; padding-right: 2em}
+	 	footer li a{font-size:1.5em;color: black; text-align: center; text-decoration: none}
+	 	footer li a:hover{color:blue}
+		
+	</style>
+	</head>
+	
+	<body>
+		<header>
+			<h1>SSA-ZOO</h1>
+			<menu id="menu">
+				<ul>
+					<li><a title="See the List of Animals" href="SSAZooAnimalList.html">Home</a></li>
+					<li><a href="register">Register</a></li>
+					<li><a href="signout">Sign Out</a></li>
+				</ul>
+			</menu>
+		</header>
+		
+		<section id="sidemenu">
+				<ul>
+					<li><a href="add">Add</a></li>
+					
+					
+				</ul>
+		</section>
+		
+	
+		
+		<section id="animaltable">
+			<table>
+				<thead>
+					<tr>
+						<th>These Are All The Animals</th>
+					
+						
+					</tr>
+				</thead>
+				<tbody>
+				
+					<tr class="d0">
+						<td><a href="aardvark">Aardvark</a></td>
+						<td class="edit"><a href="SSAZooEdit.html">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="aardvark">Baboon</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="aardvark">Chimpanzee</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="aardvark">Donkey</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="aardvark">Elephant</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="aardvark">Fish</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="aardvark">Gorilla</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="Horse">Horse</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="Iguana">Iguana</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="Jakalope">Jakalope</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="kangaro">Kangaro</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="loris">Loris</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="manatee">Manatee</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="nightangale">Nightangale</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="orangutan">Orangutan</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="piranha">Piranha</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="aardvark">Quail</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="rhinoceros">Rhinoceros</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="squirrel">Squirrel</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="tree_frog">Tree Frog</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="SSAZooUnicorn.html">Unicorn</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="velociraptor">Velociraptor</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="whale">Whale</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="xray_tetra">Xray Tetra</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d0">
+						<td><a href="yak">Yak</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+					<tr class="d1">
+						<td><a href="zebu">Zebu</a></td>
+						<td class="edit"><a href=""SSAZooEdit.html"">edit</a></td>
+					</tr>
+				</tbody>
+				
+			</table>
+			
+		</section>
+		
+		
+		
+		
+		<footer>
+			<menu>
+				<ul>
+					<li><a title="See the List of Animals" href="home">Home</a></li>
+					<li><a href="register">Register</a></li>
+					<li><a href="signout">Sign Out</a></li>
+					<li><a href="add">Add</a></li>
+					<li><a href=""SSAZooEdit.html"">Edit</a></li>
+					<li><a title= "Tree Frog" href="next">Previous</a></li>
+					<li><a title= "Velociraptor" href="previous">Next</a></li>		
+				</ul>
+			</menu>
+		</footer>
+	</body>
+	
+</html>

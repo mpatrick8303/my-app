@@ -1934,3 +1934,9 @@
 15:32:09.521 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
 15:32:13.568 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
 15:32:16.805 [main] INFO web.SpringStarter - Started SpringStarter in 7.656 seconds (JVM running for 10.1)
+16:55:15.919 [main] INFO web.SpringStarter - Starting web app
+16:55:16.400 [main] INFO web.SpringStarter - Starting SpringStarter on PC11 with PID 9072 (C:\javaproject\maven\my-app\target\classes started by admin in C:\javaproject\maven\my-app)
+16:55:16.402 [main] DEBUG web.SpringStarter - Running with Spring Boot v1.4.0.RELEASE, Spring v4.3.2.RELEASE
+16:55:16.413 [main] INFO web.SpringStarter - No active profile set, falling back to default profiles: default
+16:55:20.865 [main] DEBUG t9.TrieLoadingService - file C:\javaproject\maven\my-app\target\classes\corncob_lowercase.txt, exists?true
+16:55:23.990 [main] INFO web.SpringStarter - Started SpringStarter in 7.992 seconds (JVM running for 10.454)

@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="ISO-8859-1">
+	<title>Unicorn</title>
+	<style type="text/css">
+	
+		body{ background-image: url("C:/javaproject/maven/my-app/pictures/background2.jpg") ; overflow: hidden; height: 100% }
+		header{border: 4px solid yellow; background-color: green}
+		h1{text-align: center; font-size: 2.5em; color: yellow; }
+		section{font: small-caps; color: black;}
+		
+		#menu ul{list-style-type: none; margin: 0; padding: 0; overflow: hidden;background-color: green; text-align: center;}
+	 	#menu li{display: inline-block;}
+	 	#menu li a {font-size:1.5em; color: white;text-align: center; padding: 14px 90px; text-decoration: none;}
+	 	#menu li a:hover{background-color: grey}
+	 	
+	 	#sidemenu ul{list-style-type: none; margin: 0;padding: 0; width: 12em; background-color: green; height: 20em; 
+	 				 position: fixed; overflow: hidden; border: 4px solid yellow; border-top: 0}
+	 	#sidemenu li{ text-align: center; padding-bottom: 2em; padding-top: 4em}
+	 	#sidemenu li a{font-size: 1.5em; color: white; text-decoration: none; }
+	 	#sidemenu li a:hover{background-color: grey}
+		
+		#textbody{padding-left: 15em; padding-top: 0; position: relative; margin: 0; }
+		#name{font-weight: bold; font-size: 1.5em;}
+	 	#continents{ font-weight: bold; font-size: 1.2em; }
+	 	#list{font-weight:normal; font-size: 1.0em}
+	 	#fun{ font-weight: bold; font-size: 1.2em;}
+	 	#fact{font-weight:normal; font-size: 1.0em; width: 10em;  }
+	 	
+	 	#img{ position: relative}
+	 	#img img{border: 2px solid black;  position: absolute; top: -16em; left: 15em;}
+	 	
+	 	#img ul{position: relative; top: 10em; left: 23em; list-style: none; padding-top: 1em; }
+	 	#img li{display: inline-block; padding-right: 4em}
+	 	#img li a{font-size:1.8em;color: black; text-align: center; text-decoration: none}
+	 	#img li a:hover{color:blue}
+	 	 	
+	 	
+	 	footer{position: absolute; bottom: 2em; ; left: 24em}
+	 	footer ul{position: relative; list-style-type: none;}
+	 	footer li{display: inline; padding-right: 2em}
+	 	footer li a{font-size:1.5em;color: black; text-align: center; text-decoration: none}
+	 	footer li a:hover{color:blue}
+	 	
+	 			
+	</style>
+	</head>
+	
+	<body>
+		<header>
+			<h1>SSA-ZOO</h1>
+			<menu id="menu">
+				<ul>
+					<li><a title="See the List of Animals" href="SSAZooAnimalList.html">Home</a></li>
+					<li><a href="register">Register</a></li>
+					<li><a href="signout">Sign Out</a></li>
+				</ul>
+			</menu>
+		</header>
+		
+		<section id="sidemenu">
+				<ul>
+					<li><a href="SSAZooAdd.html">Add</a></li>
+					<li><a href="SSAZooEdit.html">Edit</a></li>
+					
+				</ul>
+		</section>
+		
+		<div id="textbody">
+			<section id="name">
+				<h3>Unicorn</h3>
+			</section>
+		
+			<section id="continents">
+				<h3>Continents</h3>
+				<ul id="list">
+					<li>Narnia</li>
+					<li>Fantasy Land</li>
+				</ul>
+			</section>
+		
+			<section id="fun">
+				<h3>Fun Fact</h3>
+				<p id = "fact">They surf rainbow </p>
+			</section>
+		
+			<section id="img">
+				<img id="imgP" alt="Unicorn" src="C:/javaproject/maven/my-app/pictures/unicorn.jpg">
+				
+				<ul>
+					<li><a title= "Tree Frog" href="next">Previous</a></li>
+					<li><a title= "Velociraptor" href="previous">Next</a></li>					
+				</ul>
+			</section>
+			
+			
+			
+		</div>
+		<footer>
+			<menu>
+				<ul>
+					<li><a title="See the List of Animals" href="home">Home</a></li>
+					<li><a href="register">Register</a></li>
+					<li><a href="signout">Sign Out</a></li>
+					<li><a href="SSAZooAdd.html">Add</a></li>
+					<li><a href=""SSAZooEdit.html"">Edit</a></li>
+					<li><a title= "Tree Frog" href="next">Previous</a></li>
+					<li><a title= "Velociraptor" href="previous">Next</a></li>		
+				</ul>
+			</menu>
+		</footer>
+	</body>
+	
+</html>
